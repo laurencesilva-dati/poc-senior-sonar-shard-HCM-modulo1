@@ -35,3 +35,5 @@ function validarPeriodoAbono(inicio, fim) {
 }
 
 module.exports = app;
+
+// rescan trigger 01:40:11
